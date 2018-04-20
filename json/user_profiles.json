@@ -1,0 +1,21 @@
+[
+    {
+        "userName" : "Jonathan",
+        "email" : "jonathan@abc.com",
+        "amount" : 12.34,
+        "friends" : ["Joe", "George", "Gary"]
+    },
+
+    {
+        "userName" : "Bob",
+        "email" : "bob@abc.com",
+        "amount": 56,
+        "friends" : {"Karen", "Rebecca"]
+    },
+
+    {
+        "userName" : "Mike",
+        "email" : "mike@abc.com"
+    }
+]
+

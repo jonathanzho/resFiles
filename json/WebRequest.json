@@ -1,0 +1,9 @@
+{
+    "number" : 16, 
+    "nameList" : [ "joe", "gary" ],
+    "user" : 
+    {
+        "name" : "steve",
+        "age" : 30
+    }    
+}

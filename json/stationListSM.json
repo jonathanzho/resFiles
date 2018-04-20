@@ -1,0 +1,223 @@
+	{
+    "exTVChannels": {
+        "version": "1332",
+        "stations": [
+            {
+                "id": "101",
+                "audio": [
+                    {
+                        "id": "1",
+                        "pid": "8001",
+                        "language": "eng"
+                    }
+                ],
+                "type": "AudioVideo",
+                "description": "Impartial, in-depth analysis of breaking international news",
+                "callSign": "BBCW",
+                "image": "BBC World",
+                "name": "BBC World News",
+                "video": {
+                    "id": "1",
+                    "pid": "2048",
+                    "aspect": "4:3"
+                },
+                "MID": "3",
+                "IFEStreamAddress": "239.192.16.10",
+                "IFEStreamPort": "52412",
+                "DynamicChannel": "No",
+                "rxStatus": "OK"
+            },
+            {
+                "id": "103",
+                "audio": [
+                    {
+                        "id": "5",
+                        "pid": "8001",
+                        "language": "eng"
+                    },
+                    {
+                        "id": "6",
+                        "pid": "8003",
+                        "language": "tur"
+                    },
+                    {
+                        "id": "15",
+                        "pid": "8005",
+                        "language": "fra"
+                    },
+                    {
+                        "id": "16",
+                        "pid": "8007",
+                        "language": "deu"
+                    }
+                ],
+                "type": "AudioVideo",
+                "description": "International news from a European perspective",
+                "callSign": "EURO",
+                "image": "Euronews",
+                "name": "Euronews",
+                "video": {
+                    "id": "2",
+                    "pid": "2048",
+                    "aspect": "16:9"
+                },
+                "MID": "4",
+                "IFEStreamAddress": "239.192.16.11",
+                "IFEStreamPort": "52416",
+                "DynamicChannel": "No",
+                "rxStatus": "OK"
+            },
+            {
+                "id": "105",
+                "audio": [
+                    {
+                        "id": "9",
+                        "pid": "8001",
+                        "language": "eng"
+                    }
+                ],
+                "type": "AudioVideo",
+                "description": "Exclusive, live sporting events and magazine programming",
+                "callSign": "SPORT24",
+                "image": "Sport24",
+                "name": "Sport 24",
+                "video": {
+                    "id": "6",
+                    "pid": "2048",
+                    "aspect": "16:9"
+                },
+                "MID": "5",
+                "IFEStreamAddress": "239.192.16.12",
+                "IFEStreamPort": "52420",
+                "DynamicChannel": "No",
+                "rxStatus": "OK"
+            },
+            {
+                "id": "106",
+                "audio": [
+                    {
+                        "id": "13",
+                        "pid": "8001",
+                        "language": "eng"
+                    }
+                ],
+                "type": "AudioVideo",
+                "description": "Financial programs and coverage of world markets",
+                "callSign": "CNBC",
+                "image": "CNBC",
+                "name": "CNBC",
+                "video": {
+                    "id": "11",
+                    "pid": "2048",
+                    "aspect": "16:9"
+                },
+                "MID": "6",
+                "IFEStreamAddress": "239.192.16.13",
+                "IFEStreamPort": "52424",
+                "DynamicChannel": "No",
+                "rxStatus": "OK"
+            },
+            {
+                "id": "107",
+                "audio": [
+                    {
+                        "id": "11",
+                        "pid": "8001",
+                        "language": "eng"
+                    }
+                ],
+                "type": "AudioVideo",
+                "description": "Breaking news and information from around the globe",
+                "callSign": "CNNi",
+                "image": "CNNi",
+                "name": "CNNi",
+                "video": {
+                    "id": "8",
+                    "pid": "2048",
+                    "aspect": "16:9"
+                },
+                "MID": "7",
+                "IFEStreamAddress": "239.192.16.14",
+                "IFEStreamPort": "52428",
+                "DynamicChannel": "No",
+                "rxStatus": "OK"
+            },
+            {
+                "id": "108",
+                "audio": [
+                    {
+                        "id": "12",
+                        "pid": "8001",
+                        "language": "jpn"
+                    }
+                ],
+                "type": "AudioVideo",
+                "description": "Japanese-language channel designed to inform and entertain Japanese living and travelling outside Japan. ",
+                "callSign": "NHK",
+                "image": "NHK",
+                "name": "NHK World Premium",
+                "video": {
+                    "id": "9",
+                    "pid": "2048",
+                    "aspect": "4:3"
+                },
+                "MID": "8",
+                "IFEStreamAddress": "239.192.16.15",
+                "IFEStreamPort": "52432",
+                "DynamicChannel": "No",
+                "rxStatus": "OK"
+            },
+            {
+                "id": "109",
+                "audio": [
+                    {
+                        "id": "14",
+                        "pid": "8001",
+                        "language": "eng"
+                    }
+                ],
+                "type": "AudioVideo",
+                "description": "The world's first English-language news channel to be headquartered in the Middle East.",
+                "callSign": "ALJAZ",
+                "image": "AlJazeera",
+                "name": "Al Jazeera English",
+                "video": {
+                    "id": "12",
+                    "pid": "2048",
+                    "aspect": "16:9"
+                },
+                "MID": "9",
+                "IFEStreamAddress": "239.192.16.16",
+                "IFEStreamPort": "52436",
+                "DynamicChannel": "No",
+                "rxStatus": "OK"
+            },
+            {
+                "id": "110",
+                "audio": [
+                    {
+                        "id": "3",
+                        "pid": "8001",
+                        "language": "ara"
+                    }
+                ],
+                "type": "AudioVideo",
+                "description": "Arabic-language rolling news channel",
+                "callSign": "SKYNA",
+                "image": "Skynews",
+                "name": "SKY News Arabia",
+                "video": {
+                    "id": "4",
+                    "pid": "2048",
+                    "aspect": "16:9"
+                },
+                "MID": "10",
+                "IFEStreamAddress": "239.192.16.17",
+                "IFEStreamPort": "52440",
+                "DynamicChannel": "No",
+                "rxStatus": "OK"
+            }
+        ],
+        "beamName": "G17"
+    }
+}

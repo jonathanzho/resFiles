@@ -1,0 +1,251 @@
+{
+    "application": {
+        "backgroundImage": {
+            "__value": "electronics.png",
+            "__type": "image",
+            "__label": "Application Background"
+        },
+        "title": {
+            "eng": {
+                "__value": "app1",
+                "__type": "string",
+                "__lang": "eng"
+            },
+            "esp": {
+                "__value": "Aplicación 1",
+                "__type": "string",
+                "__lang": "es p"
+            },
+            "__type": "text",
+            "__label": "app1"
+        },
+        "screen": {
+            "text1": {
+                "eng": {
+                    "__value": "",
+                    "__type": "string",
+                    "__lang": "eng"
+                },
+                "esp": {
+                    "__value": "esp_HeaderText_Screen1",
+                    "__type": "string",
+                    "__lang": "esp"
+                },
+                "__type": "text",
+                "__label": "header_text"
+            },
+            "text5": {
+                "eng": {
+                    "__value": "Home ELECTRONICS",
+                    "__type": "string",
+                    "__lang": "eng"
+                },
+                "esp": {
+                    "__value": "Casa",
+                    "__type": "string",
+                    "__lang": "esp"
+                },
+                "__type": "text",
+                "__label": "menu_name_text"
+            },
+            "link11": {
+                "__type": "link",
+                "__link": "screen2",
+                "__label": "Link 11"
+            },
+            "image1": {
+                "__value": "pana_banner2.png",
+                "__type": "image",
+                "__label": "banner_image"
+            },
+            "list1": {
+                "listItem": [
+                    {
+                        "text1": {
+                            "eng": {
+                                "__value": "Product1",
+                                "__type": "string",
+                                "__lang": "eng"
+                            },
+                            "esp": {
+                                "__value": "10$",
+                                "__type": "string",
+                                "__lang": "esp"
+                            },
+                            "__type": "text",
+                            "__label": "item_description"
+                        },
+                        "image1": {
+                            "__value": "menuitem1.jpg",
+                            "__type": "image",
+                            "__label": "image1"
+                        },
+                        "image2": {
+                            "__value": "miniitem1.jpg",
+                            "__type": "image",
+                            "__label": "image2"
+                        },
+                        "link22": {
+                            "__type": "childapplink",
+                            "__link": "interests/dining/american@screen_1",
+                            "__label": "Dining Link 1"
+                        },
+                        "__type": "listItem",
+                        "__label": "listItem_1",
+                        "__id": "listItem_1"
+                    },
+                    {
+                        "text1": {
+                            "eng": {
+                                "__value": "Product1",
+                                "__type": "string",
+                                "__lang": "eng"
+                            },
+                            "esp": {
+                                "__value": "10$",
+                                "__type": "string",
+                                "__lang": "esp"
+                            },
+                            "__type": "text",
+                            "__label": "item_description"
+                        },
+                        "image1": {
+                            "__value": "menuitem2.jpg",
+                            "__type": "image",
+                            "__label": "image1"
+                        },
+                        "image2": {
+                            "__value": "miniitem2.jpg",
+                            "__type": "image",
+                            "__label": "image2"
+                        },
+                        "link1": {
+                            "__type": "link",
+                            "__link": "screen3",
+                            "__label": "Link 2"
+                        },
+                        "__type": "listItem",
+                        "__label": "listItem_2",
+                        "__id": "listItem_2"
+                    },
+                    {
+                        "text1": {
+                            "eng": {
+                                "__value": "Product1",
+                                "__type": "string",
+                                "__lang": "eng"
+                            },
+                            "esp": {
+                                "__value": "10$",
+                                "__type": "string",
+                                "__lang": "esp"
+                            },
+                            "__type": "text",
+                            "__label": "item_description"
+                        },
+                        "image1": {
+                            "__value": "menuitem3.jpg",
+                            "__type": "image",
+                            "__label": "image1"
+                        },
+                        "image2": {
+                            "__value": "miniitem3.jpg",
+                            "__type": "image",
+                            "__label": "image2"
+                        },
+                        "link1": {
+                            "__type": "link",
+                            "__link": "",
+                            "__label": "Link 3"
+                        },
+                        "__type": "listItem",
+                        "__label": "listItem_3",
+                        "__id": "listItem_3"
+                    },
+                    {
+                        "text1": {
+                            "eng": {
+                                "__value": "Product1",
+                                "__type": "string",
+                                "__lang": "eng"
+                            },
+                            "esp": {
+                                "__value": "10$",
+                                "__type": "string",
+                                "__lang": "esp"
+                            },
+                            "__type": "text",
+                            "__label": "item_description"
+                        },
+                        "image1": {
+                            "__value": "menuitem4.jpg",
+                            "__type": "image",
+                            "__label": "image1"
+                        },
+                        "image2": {
+                            "__value": "miniitem4.jpg",
+                            "__type": "image",
+                            "__label": "image2"
+                        },
+                        "link1": {
+                            "__type": "link",
+                            "__link": "screen4",
+                            "__label": "Link 3"
+                        },
+                        "link23": {
+                            "__type": "childapplink",
+                            "__link": "interests/shopping/jewelry@screen_2",
+                            "__label": "Sports Link 1"
+                        },
+                        "__type": "listItem",
+                        "__label": "listItem_4",
+                        "__id": "listItem_4"
+                    },
+                    {
+                        "text1": {
+                            "eng": {
+                                "__value": "Product1",
+                                "__type": "string",
+                                "__lang": "eng"
+                            },
+                            "esp": {
+                                "__value": "10$",
+                                "__type": "string",
+                                "__lang": "esp"
+                            },
+                            "__type": "text",
+                            "__label": "item_description"
+                        },
+                        "image1": {
+                            "__value": "menuitem5.jpg",
+                            "__type": "image",
+                            "__label": "image1"
+                        },
+                        "image2": {
+                            "__value": "miniitem5.jpg",
+                            "__type": "image",
+                            "__label": "image2"
+                        },
+                        "link1": {
+                            "__type": "link",
+                            "__link": "",
+                            "__label": "Link 3"
+                        },
+                        "__type": "listItem",
+                        "__label": "listItem_5",
+                        "__id": "listItem_5"
+                    }
+                ],
+                "__type": "list",
+                "__label": "Horizontal List",
+                "__template": "list_template2"
+            },
+            "__type": "screen",
+            "__label": "screen1",
+            "__id": "screen_1",
+            "__template": "template1"
+        },
+        "__parentId": "shopping",
+        "__appId": "electronics"
+    }
+}
