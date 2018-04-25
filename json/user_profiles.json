@@ -10,7 +10,7 @@
         "userName" : "Bob",
         "email" : "bob@abc.com",
         "amount": 56,
-        "friends" : {"Karen", "Rebecca"]
+        "friends" : ["Karen", "Rebecca"]
     },
 
     {
